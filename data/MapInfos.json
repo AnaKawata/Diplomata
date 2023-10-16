@@ -1,10 +1,16 @@
 [
 null,
-{"id":1,"expanded":false,"name":"Home","order":1,"parentId":0,"scrollX":637.1999999999999,"scrollY":357,"quick":false},
-{"id":2,"expanded":false,"name":"Hospital C.F.","order":2,"parentId":1,"scrollX":910.2857142857142,"scrollY":523.7142857142857,"quick":false},
-{"id":3,"expanded":true,"name":"Cidade Floresta","order":3,"parentId":0,"scrollX":848.4,"scrollY":1564.8,"quick":false},
-{"id":4,"expanded":true,"name":"Mercado C.F.","order":4,"parentId":3,"scrollX":637.1999999999999,"scrollY":357,"quick":false},
-{"id":5,"expanded":false,"name":"Boticário","order":5,"parentId":4,"scrollX":634.8,"scrollY":350.4,"quick":false},
-{"id":6,"expanded":false,"name":"Parque da Cidade","order":7,"parentId":0,"scrollX":1045.2,"scrollY":564,"quick":false},
-{"id":7,"expanded":false,"name":"Casa da Gertrudes","order":6,"parentId":3,"scrollX":634.8,"scrollY":408,"quick":false}
+{"id":1,"expanded":true,"name":"Home","order":1,"parentId":0,"scrollX":705.3333333333334,"scrollY":389.3333333333333,"quick":false},
+{"id":2,"expanded":false,"name":"Hospital C.F.","order":2,"parentId":1,"scrollX":795,"scrollY":438,"quick":false},
+{"id":3,"expanded":true,"name":"Cidade Floresta","order":3,"parentId":0,"scrollX":835.5,"scrollY":1470,"quick":false},
+{"id":4,"expanded":true,"name":"Mercado C.F.","order":4,"parentId":3,"scrollX":795,"scrollY":438,"quick":false},
+{"id":5,"expanded":false,"name":"Boticário","order":5,"parentId":4,"scrollX":795,"scrollY":450,"quick":false},
+{"id":6,"expanded":true,"name":"Parque da Cidade","order":10,"parentId":0,"scrollX":847.5,"scrollY":640.5,"quick":false},
+{"id":7,"expanded":false,"name":"Casa da Gertrudes","order":6,"parentId":3,"scrollX":705.3333333333334,"scrollY":389.3333333333333,"quick":false},
+{"id":8,"expanded":false,"name":"Npcs que talvez eu precise","order":12,"parentId":0,"scrollX":1272,"scrollY":720,"quick":false},
+{"id":9,"expanded":false,"name":"Caminho da Feiticeira","order":13,"parentId":8,"scrollX":832.5,"scrollY":1962,"quick":false},
+{"id":10,"expanded":false,"name":"Casa da Lucrecia","order":7,"parentId":3,"scrollX":795,"scrollY":510,"quick":false},
+{"id":11,"expanded":false,"name":"Lucrecia","order":8,"parentId":3,"scrollX":795,"scrollY":450,"quick":false},
+{"id":12,"expanded":false,"name":"Loja de Armaduras","order":9,"parentId":3,"scrollX":816,"scrollY":624,"quick":false},
+{"id":13,"expanded":false,"name":"Casa Abandonada","order":11,"parentId":6,"scrollX":795,"scrollY":438,"quick":false}
 ]
